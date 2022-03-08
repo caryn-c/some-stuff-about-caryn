@@ -1,4 +1,3 @@
-# some-stuff-about-caryn
 
 git remote add origin https://github.com/caryn-c/about-caryn.git
 git push -u origin master
